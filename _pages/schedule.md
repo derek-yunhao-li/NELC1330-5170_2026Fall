@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-permalink: /schedule-and-homework/
+permalink: /schedule/
 ---
 
 <div id="table-wrapper">

@@ -10,8 +10,7 @@ permalink: /schedule/
       <tr>
         <th>Date</th>
         <th>Topic</th>
-        <th>Preparation</th>
-        <th>Notes</th>
+        <th>Resources</th>
       </tr>
     </thead>
     <tbody>

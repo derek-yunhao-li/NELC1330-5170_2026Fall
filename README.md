@@ -1,1 +1,1 @@
-Course website for AKKD110/AKKD500 Elementary Akkadian I, Fall 2024 at Yale University
+Website for discussion sections of NELC 1330/5170 Beginnings of Business (Fall 2026) at Yale University

@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Schedule and Homework
+title: Schedule
 permalink: /schedule-and-homework/
 ---
 
 <div id="table-wrapper">
-    <div id="table-container"></div>
+  <table>
+  </table>
 </div>
-
-
-<script> {% include load-schedule.js %} </script>

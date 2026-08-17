@@ -1,6 +1,6 @@
 // Published Google Sheets TSV URL.
 // After publishing your schedule sheet, paste its TSV URL between the quotes below.
-const tsvUrl = '';
+const tsvUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRl9xWp_g1v4ErctSEfy0qzkODA8NhFNsaRNHiO06LQqsUlrBuYD1CaQ_QextlNoRE6hdvQ6FiPoX1o/pub?gid=0&single=true&output=tsv';
 
 async function loadTsvData() {
   const tableContainer = document.getElementById('table-container');

@@ -3,15 +3,15 @@
 #
 
 # Name of your site (displayed in the header)
-name: AKKD 110/500
+name: NELC 1330/5170 Beginnings of Business
 
 # Name of the author
-author: Avital Romach
+author: Yunhao Li
 
-year: 2024
+year: 2026
 
 # Short bio or description (displayed in the header)
-description: Elementary Akkadian I Fall 2024
+description: Discussion Sections
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/EME.png
@@ -23,10 +23,10 @@ avatar: /images/EME.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: avital.romach@yale.edu
+  email: yunhao.li@yale.edu
   facebook:
   flickr:
-  github: ARomach
+  github: derek-yunhao-li
   instagram:
   linkedin: 
   pinterest:
@@ -57,7 +57,7 @@ enforce_ssl:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/AKKD110-AKKD500"
+baseurl: "/NELC1330-5170_2026Fall"
 
 #
 # !! You don't need to change any of the configuration flags below !!
